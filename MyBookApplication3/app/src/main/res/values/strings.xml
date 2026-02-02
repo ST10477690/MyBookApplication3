@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyBookApplication3</string>
+    <string name="hint_title">Book Title</string>
+    <string name="hint_author">Author</string>
+    <string name="hint_ratings">Ratings (1-5, comma-separated)</string>
+    <string name="hint_comments">Comments (comma-separated)</string>
+    <string name="btn_add">Add to Playlist</string>
+    <string name="btn_list_books">View Book List</string>
+    <string name="btn_average_rating">Average Rating</string>
+    <string name="display_header">Book Details</string>
+    <string name="btn_back">Back to Main</string>
+</resources>
